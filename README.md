@@ -1,6 +1,6 @@
 # omg_vpcc
 
-Executable files for the occupancy map guided fast Video-based Point Cloud Compression (OMG_VPCC) method which is submitted to TCSVT. Provided by Jian Xiong (jxiong@njupt.edu.cn).
+Executable files for the occupancy map guided fast Video-based Point Cloud Compression (OMG_VPCC) method which is submitted to TIP. Provided by Jian Xiong (jxiong AT njupt Dot edu Dot cn).
 
 
 Four files are included as 
